@@ -1,4 +1,7 @@
-[![MasterHead](https://www.freepik.com/free-ai-image/business-person-futuristic-business-environment_94958581.htm#fromView=search&page=1&position=17&uuid=08663805-811a-4cf7-b402-73c0d5525ba7)]
+<div align="center">
+    <img src="https://media.istockphoto.com/id/1488294044/photo/businessman-works-on-laptop-showing-business-analytics-dashboard-with-charts-metrics-and-kpi.jpg?s=612x612&w=0&k=20&c=AcxzQAe1LY4lGp0C6EQ6reI7ZkFC2ftS09yw_3BVkpk=" alt="Business Analytics Dashboard">
+</div>
+
 <h1 align="center">Hi 👋, I'm Abhishek Jagtap</h1>
 <h3 align="center">A passionate Developer/Data analyst</h3>
 
